@@ -80,6 +80,7 @@ form{
     letter-spacing: 2.8px;
     color: #FFFFFF;
     }
+ 
   .wrapper{
     display: flex;
     background: #5474FD;
@@ -131,4 +132,7 @@ form{
  }
  h3,a{
     color: #FFFFFF;
+ }
+ h3,a:hover{
+    color: palevioletred;
  }

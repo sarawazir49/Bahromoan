@@ -60,6 +60,9 @@ text-transform: uppercase;
 border: none;
 color: #FFFFFF;
 }
+.container2__button:hover{
+    background-color: palevioletred;
+}
 .bild{
     display: grid;
     grid-template-columns: repeat(4,1fr);
