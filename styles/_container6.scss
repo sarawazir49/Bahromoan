@@ -26,11 +26,7 @@ background-color: #232323;
     color: #FFFFFF;
 }
 .footer_text{
-    width: 196px;
-    height: 26px;
-    left: 0px;
-    top: 34px;
-    
+  
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 400;
@@ -44,4 +40,10 @@ background-color: #232323;
     letter-spacing: 1.6px;
     
     color: #FFFFFF;
+}
+.apps{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    list-style: none;
 }

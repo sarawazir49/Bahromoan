@@ -1132,10 +1132,6 @@ footer {
 }
 
 .footer_text {
-  width: 196px;
-  height: 26px;
-  left: 0px;
-  top: 34px;
   font-family: "Josefin Sans";
   font-style: normal;
   font-weight: 400;
@@ -1151,4 +1147,16 @@ footer {
   text-align: center;
   letter-spacing: 1.6px;
   color: #FFFFFF;
+}
+
+.apps {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  gap: 10px;
+  list-style: none;
 }
