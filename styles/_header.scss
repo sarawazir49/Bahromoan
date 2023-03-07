@@ -60,7 +60,7 @@ form{
     }
     .form__button{     
     box-sizing: border-box;
-   
+    color: white;
     width: 153px;
     background: #5474FD;
     border: 2px solid #FFFFFF;
@@ -128,4 +128,7 @@ form{
     margin-top: 10px;
     font-family: $main-font;
 
+ }
+ h3,a{
+    color: #FFFFFF;
  }
