@@ -91,7 +91,7 @@ input {
           align-items: center;
   text-align: center;
   letter-spacing: 2.8px;
-  color: white;
+  color: #FFFFFF;
 }
 
 .wrapper {
@@ -510,7 +510,7 @@ template {
 .container__2b, .container__2c {
   width: 560px;
   height: 158px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -797,12 +797,11 @@ template {
   height: 26px;
   left: 360px;
   top: 276px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 26px;
-  /* identical to box height, or 130% */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -818,12 +817,11 @@ template {
   height: 26px;
   left: 360px;
   top: 325px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 26px;
-  /* identical to box height, or 130% */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -839,12 +837,11 @@ template {
   height: 78px;
   left: 360px;
   top: 364px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  /* or 162% */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -861,7 +858,7 @@ template {
   top: 0px;
   border: none;
   background: #5474FD;
-  font-family: "Aleo";
+  font-family: "Aleo", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -919,12 +916,11 @@ template {
   height: 26px;
   left: 360px;
   top: 276px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 26px;
-  /* identical to box height, or 130% */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -940,12 +936,11 @@ template {
   height: 26px;
   left: 360px;
   top: 325px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 26px;
-  /* identical to box height, or 130% */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -961,7 +956,7 @@ template {
   height: 78px;
   left: 360px;
   top: 364px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -982,7 +977,7 @@ template {
   top: 0px;
   border: none;
   background: #5474FD;
-  font-family: "Aleo";
+  font-family: "Aleo", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -1038,7 +1033,7 @@ template {
 .item__4 {
   width: 400px;
   height: 36px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -1056,7 +1051,7 @@ template {
 .item__5 {
   width: 241px;
   height: 26px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -1073,7 +1068,7 @@ template {
 
 .item__6 {
   width: 420px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -1115,7 +1110,7 @@ footer {
   height: 26px;
   left: 10px;
   top: 0px;
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -1132,12 +1127,11 @@ footer {
 }
 
 .footer_text {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
-  /* identical to box height, or 162% */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

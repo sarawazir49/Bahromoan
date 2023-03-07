@@ -24,7 +24,7 @@ background-image: url(../images/image7.png) ;
 .item__4{
     width: 400px;
     height: 36px;
-    font-family: 'Josefin Sans';
+    font-family:$logo-font;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -38,7 +38,7 @@ background-image: url(../images/image7.png) ;
 .item__5{
     width: 241px;
     height: 26px;
-    font-family: 'Josefin Sans';
+    font-family:$logo-font;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -51,7 +51,7 @@ background-image: url(../images/image7.png) ;
 }
 .item__6{
     width: 420px;
-    font-family: 'Josefin Sans';
+    font-family:$logo-font;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;

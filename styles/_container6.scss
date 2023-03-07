@@ -1,7 +1,8 @@
+@import'fonts';
 footer{
     max-width: 100%;
-height: 271px;
-background-color: #232323;
+    height: 271px;
+    background-color: #232323;
 }
 .container6{
     display: flex;
@@ -14,7 +15,7 @@ background-color: #232323;
     height: 26px;
     left: 10px;
     top: 0px;
-    font-family: 'Josefin Sans';
+    font-family:$logo-font;
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
@@ -27,18 +28,15 @@ background-color: #232323;
 }
 .footer_text{
   
-    font-family: 'Josefin Sans';
+    font-family:$logo-font;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-    /* identical to box height, or 162% */
-    
     display: flex;
     align-items: center;
     text-align: center;
     letter-spacing: 1.6px;
-    
     color: #FFFFFF;
 }
 .apps{
