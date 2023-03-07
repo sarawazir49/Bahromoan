@@ -164,7 +164,7 @@ h3, a {
   color: #FFFFFF;
 }
 
-h3, a:hover {
+a:hover {
   color: palevioletred;
 }
 
@@ -538,7 +538,7 @@ template {
   width: 179px;
   height: 56px;
   background: #5474FD;
-  font-family: "Aleo";
+  font-family: "Aleo", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -707,7 +707,7 @@ template {
   -ms-grid-column: 1;
   -ms-grid-column-span: 1;
   grid-column: 1/2;
-  font-family: "Aleo";
+  font-family: "Aleo", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -732,7 +732,7 @@ template {
   -ms-grid-column: 2;
   -ms-grid-column-span: 1;
   grid-column: 2/3;
-  font-family: "Aleo";
+  font-family: "Aleo", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -757,7 +757,7 @@ template {
   -ms-grid-column: 3;
   -ms-grid-column-span: 1;
   grid-column: 3/4;
-  font-family: "Aleo";
+  font-family: "Aleo", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 36px;
@@ -1174,4 +1174,8 @@ footer {
           flex-direction: row;
   gap: 10px;
   list-style: none;
+}
+
+.apps:hover {
+  color: palevioletred;
 }

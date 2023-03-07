@@ -48,7 +48,7 @@ color: #E8E8E8;
 width: 179px;
 height: 56px;
 background: #5474FD;
-font-family: 'Aleo';
+font-family: $main-font;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -95,7 +95,7 @@ color: #FFFFFF;
 .item1{
     grid-row: 1/1;
     grid-column: 1/2;
-    font-family: 'Aleo';
+    font-family:$main-font;
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
@@ -109,7 +109,7 @@ color: #FFFFFF;
 .item2{
     grid-row: 1/1;
     grid-column: 2/3;
-    font-family: 'Aleo';
+    font-family:$main-font;
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
@@ -123,7 +123,7 @@ color: #FFFFFF;
 .item3{
     grid-row: 1/1;
     grid-column: 3/4;
-    font-family: 'Aleo';
+    font-family:$main-font;
     font-style: normal;
     font-weight: 400;
     font-size: 36px;
